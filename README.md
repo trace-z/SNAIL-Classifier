@@ -1,2 +1,2 @@
 # SNAIL-Classifier
-Mode simulations of nonlinear quantum SNAIL amplifiers for phase-encoded weak signal classification
+Mode simulations of nonlinear quantum SNAIL amplifiers for phase-encoded weak signal classification. By encoding two types of signals in orthogonal two-mode squeezing orientations, the nonlinear device is able to map input higher-order phase differences onto output amplitude differences. Code contains SNAIL device simulation, setup of input modes, FDA analysis, and learned linear readout processing.
